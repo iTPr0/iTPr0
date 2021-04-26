@@ -4,7 +4,7 @@
 	</p>
 </h2>
 	
-<img align="left" width="40%" src="https://tifodao.tk/images/autor/perfil.jpg"><br> 
+<img align="left" width="45%" src="https://tifodao.tk/images/autor/perfil.jpg"><br> 
 	<h3 align="center">Meu nome é Diego Melo (Aeon) :man_technologist:</h3>
 <p align="center">
 Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente trabalho em backend com a linguagem PHP usando o framework Laravel. Para o frontend, posso usar SASS, e frameworks JavaScript como Vue.JS. Estou interessado em aprender novos linguagens mas estou aberto para aprender outros.

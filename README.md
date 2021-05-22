@@ -1,8 +1,6 @@
-<h2>
-	<p align="center">
-		Olá, sou surdo.
-	</p>
-</h2>
+<h3 align="center">
+	Olá, sou surdo.
+</h3>
 	
 <img align="left" width="45%" src="https://tifodao.tk/images/autor/perfil.jpg"><br> 
 	<h3 align="center">Meu nome é Diego Melo (Aeon) :man_technologist:</h3>
@@ -64,5 +62,9 @@ Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente traba
 </a><br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=iTPr0&theme=dark&show_icons=true">
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iTPr0&show_icons=true&hide_border=true&theme=dark">
 </div>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/iTPr0/count.svg" alt="Contagem de visitantes">
+</p>

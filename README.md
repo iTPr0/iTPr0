@@ -9,11 +9,9 @@ Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente traba
 </p>
 
 <div align="center">
-	<a href="mailto:diegomelo.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://bit.ly/3rJy1pJ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 	<a href="https://bit.ly/3paRhKS"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href="https://bit.ly/2Z3WtWA"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-	<a href="https://bit.ly/3bVdrdq"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"></a>
 </div>
 
 <h3>
@@ -33,7 +31,7 @@ Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente traba
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Sistema operacional - Dual boot.
@@ -51,7 +49,7 @@ Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente traba
 ### Frameworks e bibliotecas
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular.JS](https://img.shields.io/badge/angular.js-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
 
 </br>
 

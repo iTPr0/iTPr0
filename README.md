@@ -2,7 +2,7 @@
 	Olá, sou surdo.
 </h3>
 	
-<img align="left" width="45%" src="https://user-images.githubusercontent.com/66981750/122620930-8fa50700-d06a-11eb-8534-78cc4545ada5.jpg"><br> 
+<img align="left" width="43%" src="https://user-images.githubusercontent.com/66981750/122620930-8fa50700-d06a-11eb-8534-78cc4545ada5.jpg"><br> 
 	<h3 align="center">Meu nome é Diego Melo (Aeon) :man_technologist:</h3>
 <p align="center">
 Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente trabalho em backend com a linguagem PHP usando o framework Laravel. Para o frontend, posso usar SASS, e frameworks JavaScript como Vue.JS. Estou interessado em aprender novos linguagens mas estou aberto para aprender outros.
@@ -53,7 +53,7 @@ Hacker ético e desenvolvedor web do Brasil, Salvador - Bahia. Normalmente traba
 
 </br>
 
-<a href="https://tifodao.tk">
+<a href="https://tifodao.ga">
 	<div align="center">
 		<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 	</div>
